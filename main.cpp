@@ -1,3 +1,10 @@
+//****************************************************** 
+// Author:      Nickolas Marino
+// Asignment:   Escape the Dungeon
+// Description: A system that deposits, withdrawls, 
+//              and checks the money in a bank account
+//******************************************************
+
 #include <iostream>
 #include <random>
 #include <string>
